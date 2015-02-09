@@ -1,0 +1,26 @@
+{
+  "name": "renderstring",
+  "version": "0.1.2",
+  "description": "Rendering String in javascript",
+  "main": "string.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vipulsodha/renderJsTemplate.git"
+  },
+  "author": "Vipul Sodha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipulsodha/renderJsTemplate/issues"
+  },
+  "homepage": "https://github.com/vipulsodha/renderJsTemplate",
+  "keywords": [
+    "javascript",
+    "render",
+    "string",
+    "string",
+    "template"
+  ]
+}
