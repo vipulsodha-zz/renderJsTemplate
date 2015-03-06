@@ -4,7 +4,7 @@ A small npm package for rendring small javascript template messages !
 
 Install :
 
-npm install renderjs
+npm install  renderstring
 
 Use : 
 
