@@ -8,7 +8,7 @@ npm install renderjs
 
 Use : 
 
-var render = require('renderjs);
+var render = require('renderstring);
 
 var template = "hello this is ?";
 
